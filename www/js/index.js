@@ -85,7 +85,7 @@ var app = {
 
       });
 
-      var uuid = 'CobiBeacon_00042';
+      var uuid = 'E2C56DB5-DFFB-48D2-B060-D0F5A71096E0';
       var identifier = 'beaconNumber1';
       var minor = 1;
       var major = 1;
